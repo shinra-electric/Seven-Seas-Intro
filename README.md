@@ -35,4 +35,4 @@ The Seven Seas project has now graduated the Pier Program. It has been transferr
 
 We are very proud of what we accomplished over just nine short months. We even had an opportunity to showcase our MVP to Lisa Jackson from Apple. We look forward to using the app ourselves on its release! 
 
-<img src="./Resources/lisajackson.jpg" width="200" align="center" />
+<img src="./Resources/lisajackson.png" width="200" align="center" />
