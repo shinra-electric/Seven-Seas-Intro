@@ -1,6 +1,9 @@
 # Seven Seas Introduction
 <img src="./Resources/seven_seas_icon.png" width="200" align="right" />
-Introduction to the Seven Seas app that I worked on at the Apple Developer Academy. There is no code published here as I do not have ownership of the codebase. 
+Introduction to the Seven Seas app that I worked on at the Apple Developer Academy. 
+
+> [!NOTE]
+> There is no code published here as I do not have ownership of the codebase. 
 
 <hr>
 
@@ -20,11 +23,16 @@ Our team was made up of three designers (Angelo, Serena and Miguel) and three co
 
 We decided to create an app for the alumni of all the Academies around the world to share their stories with each other. After starting out with several designs and an extensive round of A/B testing, we had our basic design. Then it was time for our coders to get to work... 
 
-We created a macOS app using SwiftUI for the frontend, and a Filemaker server for the backend. Due to the versatility of SwiftUI, we were also able to extend our goals and create an iPadOS app as well with minimal changes. 
+<img src="./Resources/app_on_mac.png" width="200" align="center" />
+
+We created a macOS app using SwiftUI for the frontend, and a FileMaker server for the backend. Due to the versatility of SwiftUI, we were also able to extend our goals and create an iPadOS app as well with minimal changes. 
 
 **The Future**
+
 The Seven Seas project has now graduated the Pier Program. It has been transferred to the Alumni board, who will guide its development in the future. 
 
-We are very proud of what we accomplished over just nine short months. We even had an opportunity to showcase out MVP to Lisa Jackson from Apple. We look forward to using the app ourselves on its release! 
+<img src="./Resources/project_on_mac.png" width="200" align="center" />
 
+We are very proud of what we accomplished over just nine short months. We even had an opportunity to showcase our MVP to Lisa Jackson from Apple. We look forward to using the app ourselves on its release! 
 
+<img src="./Resources/lisajackson.jpg" width="200" align="center" />
