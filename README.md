@@ -22,7 +22,7 @@ Our team was made up of three designers (Angelo, Serena and Miguel) and three co
 
 ## Our Solution
 
-We decided to create an app for the alumni of all the Academies around the world to share their stories with each other. After starting out with several designs and an extensive round of A/B testing, we had our basic design. Then it was time for our coders to get to work... 
+We decided to create an app for the alumni of all the Academies around the world to share their stories with each other. After starting out with several ideas and an extensive round of A/B testing, we had our basic design. Then it was time for our coders to get to work... 
 
 <p align="center">
 <img src="./Resources/app_on_mac.png" width="500" />
