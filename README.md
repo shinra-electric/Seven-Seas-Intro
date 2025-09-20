@@ -3,7 +3,7 @@
 <br>Introduction to the Seven Seas app that I worked on at the Apple Developer Academy. <br><br>
 
 > [!NOTE]
-> There is no code published here as I do not have ownership of the codebase. 
+> There is no code published here as it is a private project and I do not have ownership of the codebase. 
 
 <br>
 <hr>
