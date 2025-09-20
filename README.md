@@ -10,7 +10,7 @@
 
 ## The Pier Program
 
-The Pier Program is a graduate year at the Academy where a few outstanding students are selected to work on new or existing projects for internal or external clients. It is more like work experience, as we use Agile methodologies and must regularly meet with our client to showcase out work and confirm we are meeting their needs. 
+The Pier Program is a graduate year at the Academy where a select few promising students are selected to work on new or existing projects for internal or external clients. It is more like work experience, as we use Agile methodologies and must regularly meet with our client to showcase our work and confirm we are meeting their needs. 
 
 ## Understanding the requirements
 
