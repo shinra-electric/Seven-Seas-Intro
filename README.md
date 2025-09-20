@@ -14,7 +14,7 @@ The Pier Program is a graduate year at the Academy where a few outstanding stude
 
 ## Understanding the requirements
 
-When we were first assigned to the Seven Seas project, we were a bit lost. We were given vague direction to create an app that enables Academy alumni to connect and share their stories. The name Seven Seas is to represent the fact that after graduating, students will be scattered all across the world. 
+When we were first assigned to the Seven Seas project, we were given vague directions to create an app that enables Academy alumni to connect and share their stories. The name Seven Seas is to represent the fact that after graduating, students will be scattered all across the world. 
 
 ## Pyxis
 
