@@ -1,6 +1,7 @@
 # Seven Seas
 <img src="./Resources/seven_seas_icon.png" width="200" align="right" />
-<br>Private social network app specifically for students of the Apple Developer Academy in Napoli.
+<br>
+Private social network app specifically for students of the <a href="https://www.developeracademy.unina.it/en">Apple Developer Academy</a> in Napoli.
 <br>
 <br>
 Developed for macOS and iPadOS using Swift, SwiftUI and FileMaker.
