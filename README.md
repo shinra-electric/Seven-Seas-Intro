@@ -1,9 +1,9 @@
-# Seven Seas Introduction
+# Seven Seas
 <img src="./Resources/seven_seas_icon.png" width="200" align="right" />
-<br>Introduction to the Seven Seas app that I worked on at the Apple Developer Academy. <br><br>
+<br>Private social network app specifically for students of the Apple Developer Academy in Napoli<br><br>
 
 > [!NOTE]
-> There is no code published here as it is a private project and I do not have ownership of the codebase. 
+> There is no code published here as it is a private project 
 
 <br>
 <hr>
