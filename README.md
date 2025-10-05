@@ -1,6 +1,6 @@
 # Seven Seas
 <img src="./Resources/seven_seas_icon.png" width="200" align="right" />
-<br>Private social network app specifically for students of the Apple Developer Academy in Napoli<br><br>
+<br>Private social network app for macOS and iPadOS made specifically for students of the Apple Developer Academy in Napoli<br><br>
 
 > [!NOTE]
 > There is no code published here as it is a private project 
